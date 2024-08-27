@@ -1,0 +1,96 @@
+body {
+  /* background-color: palevioletred; */
+  margin: 0px;
+  text-align: center;
+}
+
+.top-container {
+  background-color: palevioletred;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+  background-color: whitesmoke;
+  padding: 100px 0px;
+}
+.contact {
+  background-color: whitesmoke;
+  padding: 100px 0px;
+}
+.bottom-container {
+  padding: 60px 0px;
+  background-color: #66283c;
+}
+h1 {
+  padding: 8% 0px 5% 0px;
+  margin-bottom: 10%;
+  font-family: "Open Sans", sans-serif;
+  color: #66283c;
+  font-size: 4.5rem;
+}
+h2 {
+  font-size: 2.5em;
+  font-family: "Inclusive Sans", sans-serif;
+  color: #66283c;
+  padding: 2% 0px 12% 0px;
+}
+.middle-container img {
+  height: 180px;
+  width: 180px;
+}
+.profile > h2 {
+  color: #84405e;
+  padding: 20px 0px;
+}
+p {
+  font-family: "Inclusive Sans", sans-serif;
+  color: #84405e;
+  padding: 0px 60px 60px 60px;
+  margin: 50px;
+  font-size: 2rem;
+}
+.skills {
+  padding: 100px 0px;
+  margin: 0px 20px;
+}
+.leftalign {
+  padding: 60px 0px;
+  margin: 20px 20px;
+}
+.parent {
+  display: grid;
+  grid-template-columns: 1fr 0.7fr;
+  grid-template-rows: repeat(1, 1fr);
+  padding: 20px;
+  margin: 20px;
+}
+.text {
+  font-family: "Inclusive Sans", sans-serif;
+  color: #84405e;
+  font-size: 1.5rem;
+  float: right;
+  padding: 5px 10px 5px 10px;
+  margin-top: 5px;
+}
+.image {
+  padding: 10px;
+  margin: 5px 10px 10px 10px;
+}
+.btn {
+  width: 200px;
+  padding: 15px 25px 15px 25px;
+  margin: 10px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  color: #66283c;
+  background-color: palevioletred;
+  border-radius: 15px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #66283c;
+  color: palevioletred;
+}
