@@ -1,2 +1,1 @@
-helloo
-Start from - index.html
+Just a simple website by a beginner!
