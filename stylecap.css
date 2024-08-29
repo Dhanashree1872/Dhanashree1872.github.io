@@ -7,22 +7,22 @@ body {
 .top-container {
   background-color: palevioletred;
   position: relative;
-  /* padding-top: 100px; */
-  height: 100vh;
+  padding-top: 70px 0px;
+  height: 80vh;
 }
 .middle-container {
   background-color: whitesmoke;
-  /* padding: 100px 0px; */
-  height: 100vh;
+  padding: 70px 0px;
+  height: 80vh;
 }
 .contact {
   background-color: whitesmoke;
-  /* padding: 100px 0px; */
-  height: 100vh;
+  padding: 70px 0px;
+  height: 80vh;
 }
 .bottom-container {
-  /* padding: 60px 0px; */
-  height: 100vh;
+  padding: 70px 0px;
+  height: 80vh;
   background-color: #66283c;
 }
 h1 {
