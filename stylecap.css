@@ -7,8 +7,8 @@ body {
 .top-container {
   background-color: palevioletred;
   position: relative;
-  padding-top: 70px 0px;
-  height: 80vh;
+  padding-top: 100px 0px;
+  /* height: 80vh; */
 }
 .middle-container {
   background-color: whitesmoke;
