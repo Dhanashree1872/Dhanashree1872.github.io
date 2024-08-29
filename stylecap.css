@@ -7,24 +7,18 @@ body {
 .top-container {
   background-color: palevioletred;
   position: relative;
-  padding-top: 100px 0px;
-  /* height: 80vh; */
+  padding-top: 100px;
 }
 .middle-container {
   background-color: whitesmoke;
-  padding: 70px 0px;
-  padding-top: 100px 0px;
-  /* height: 100vh; */
+  padding: 100px 0px;
 }
 .contact {
   background-color: whitesmoke;
   padding: 70px 0px;
-  padding-top: 100px 0px;
-  /* height: 100vh; */
 }
 .bottom-container {
-  padding: 70px 0px;
-  /* height: 80vh; */
+  padding: 60px 0px;
   background-color: #66283c;
 }
 h1 {
