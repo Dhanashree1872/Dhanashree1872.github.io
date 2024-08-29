@@ -13,16 +13,18 @@ body {
 .middle-container {
   background-color: whitesmoke;
   padding: 70px 0px;
-  height: 80vh;
+  padding-top: 100px 0px;
+  /* height: 100vh; */
 }
 .contact {
   background-color: whitesmoke;
   padding: 70px 0px;
-  height: 80vh;
+  padding-top: 100px 0px;
+  /* height: 100vh; */
 }
 .bottom-container {
   padding: 70px 0px;
-  height: 80vh;
+  /* height: 80vh; */
   background-color: #66283c;
 }
 h1 {
