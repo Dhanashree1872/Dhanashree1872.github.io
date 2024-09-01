@@ -1,1 +1,1 @@
-Angela Yu version
+Sample portfolio with lots of fun!
